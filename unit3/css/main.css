@@ -1,24 +1,30 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	font-style: italic;
+}
+section {
+	border:2px solid red;
+	padding:5em 0;
+}
+div {
+	padding:200px 0 0 200px;
+}
+h1 {
+	font-weight: bold;
+	font-size:70px;
+	text-align:center;
+}
+#intro {
+	background-image:url(../images/children.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	height:90vh;
+}
 #slogan {
     font-style: italic;
 }
 
 #contact {
 	font-weight: bold;
-}
-
-#h1 {
-	font-weight: bold;
-}	
-
-#body {
-	font-style: italic;
-}
-
-#h1 {
-	font-size: 70px;
-}
-
-h1 {
-
-	text-align: center;
 }
